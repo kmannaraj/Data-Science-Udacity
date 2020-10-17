@@ -14,7 +14,7 @@ Project components
 •	Cleans data 
 •	Upload to SQLite DB
 
-# 2.	#ML pipeline Run train_classifier.py 
+# 2.	ML pipeline Run train_classifier.py 
 
 •	Loads data from the SQLite database
 •	Splits the dataset into training and test sets
