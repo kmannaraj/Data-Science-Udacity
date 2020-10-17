@@ -30,4 +30,4 @@ From the output of that, put in the URL that will replace https://SPACEID-3001.S
 as example https://viewa7a4999b-3001.udacity-student-workspaces.com/"  
 
 
-[](!pic_1.png)
+![](pic_1.png)
