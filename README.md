@@ -29,7 +29,7 @@ Open separate terminal window and run env|grep WORK
 From the output of that, put in the URL that will replace https://SPACEID-3001.SPACEDOMAIN 
 as example https://viewa7a4999b-3001.udacity-student-workspaces.com/"  
 
-Enter text to classify 
+Enter text to classify  and getting output 
 
 ![](pic_1.png)
 
@@ -37,3 +37,10 @@ Enter text to classify
 
 Proportion of message categories 
 
+![](pic_2.png)
+
+## Enter Water in message box 
+
+![](pic_4.png)
+
+![](pic_3.png)
