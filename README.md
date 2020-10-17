@@ -23,7 +23,7 @@ Project components
 •	Outputs results on the test set
 •	Exports the final model as a pickle file
 
-# 3.	Flask web app Run run.py to run web application
+# 3.	Flask web app run.py to run web application
 
 Open separate terminal window and run env|grep WORK
 From the output of that, put in the URL that will replace https://SPACEID-3001.SPACEDOMAIN 
